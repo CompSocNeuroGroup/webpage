@@ -1,6 +1,7 @@
 ---
 author: Jim Thompson
 draft: false
+date: "2021-09-19"
 excerpt: Eslam Hassan a PhD student in the Department of Psychology currently evaluating the effects of social isolation and loneliness during the pandemic. Future interests are in learning and memory in college students.
 subtitle: PhD Student
 tags:

@@ -1,6 +1,7 @@
 ---
 author: Jim Thompson
 draft: false
+date: "2021-09-20"
 excerpt: Bill Kennedy is an Associate Professor (term) in the Department of Computational and Data Sciences in the College of Science. He is interested in integrating cognitive science and cognitive modeling of individual into computational social science up to the societal level. 
 layout: single
 subtitle: Associate Professor of Computational and Data Sciences

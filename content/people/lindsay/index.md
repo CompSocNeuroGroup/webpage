@@ -1,6 +1,7 @@
 ---
 author: Jim Thompson
 draft: false
+date: "2021-09-19"
 excerpt: Lindsay S. Shaffer is a 4th year PhD student in the CSNG and a NSF NRT Fellow. Lindsay's research focuses on computational modeling, brain imaging modalities (e.g., EEG, fMRI), reward processing, reinforcement learning, and psychosis.
 subtitle: PhD Student
 tags:

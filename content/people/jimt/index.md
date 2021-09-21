@@ -1,6 +1,7 @@
 ---
 author: Jim Thompson
 draft: false
+date: "2021-09-21"
 excerpt: Jim Thompson is Associate Professor of Psychology, and Scientific Director of the GMU 3T MRI Center, at George Mason University. He is interested in social and affective processing in children and adults, using multimodal neuroimaging (EEG/ERPs, fMRI), neurostimulation (rTMS), and computational models of behavior.
 layout: single
 subtitle: Associate Professor of Psychology

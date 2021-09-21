@@ -1,6 +1,7 @@
 ---
 author: Jim Thompson
 draft: false
+date: "2021-09-16"
 excerpt: Egette Indelele is a Master’s student in the Department of Psychology and in the CSNG lab.
 layout: single
 subtitle: MA student
