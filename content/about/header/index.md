@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  # Computational Social Neuroscience Group
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+We study social and affective processing in humans, with particular emphasis on neural and computational processes. We use functional magnetic resonance imaging (fMRI), event-related potentials (ERPs), and repetitive transcranial magnetic resonance imaging (rTMS) to measure and perturb neural processes. We use network analyses, bayesian and reinforcement learning, agent-based modeling, and dynamical systems approaches to develop statistical and computational models of social and affective processes.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+Our work is funded by the National Institutes of Health, National Science Foundation, and the Institute for Biohealth Innovation at GMU.
