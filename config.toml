@@ -1,4 +1,4 @@
-baseURL = "http://csng.rbind.io/"
+baseURL = "https://csng.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Computational Social Neuroscience Group"
