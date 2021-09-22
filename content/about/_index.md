@@ -1,6 +1,6 @@
 ---
 cascade:
-  headless: true
+  headless: false
 description: |
   Computational Social Neuroscience Group
 show_header: true

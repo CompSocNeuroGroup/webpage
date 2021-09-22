@@ -5,7 +5,7 @@ cascade:
   show_comments: false
   show_post_date: true
 description: Who are we?
-layout: list-grid
+layout: standard
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
