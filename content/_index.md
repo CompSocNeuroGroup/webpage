@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: The Computational Social Neuroscience Group is part of the [Department of Psychology](psychology.gmu.edu) at [George Mason University](www.gmu.edu). We study social and affective processing in humans, with particular emphasis on computational and neural processes.
+description: The Computational Social Neuroscience Group is part of the [Department of Psychology](psychology.gmu.edu) at [George Mason University](www.gmu.edu). We study social and affective processing in humans, with particular emphasis on cognitive, computational, and neural processes.
 image_left: true
 images:
 - img/eye.jpg
