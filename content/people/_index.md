@@ -3,7 +3,7 @@ author: Jim Thompson
 cascade:
   show_author_byline: false
   show_comments: false
-  show_post_date: true
+  show_post_date: false
 description: Who are we?
 layout: standard
 show_author_byline: false
